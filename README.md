@@ -1,4 +1,4 @@
-A collection of stuffs
+A collection of stuffs. just trying to git good ;P
 
 # Examples
 
