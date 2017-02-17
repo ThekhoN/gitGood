@@ -4,10 +4,15 @@ A collection of stuffs
 
 ```
 helloWorld()
-//=> 'saying hello world'
+//=> console.logs 'saying hello world'
 ```
 
 ```
 randomNumber(1,10)
 //=> 2
 ``` 
+
+```
+sayHelloWorld()
+//=> 'goodbye world'
+```
