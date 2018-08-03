@@ -1,6 +1,6 @@
 const sayHelloWorld = () => {
-    // console.log('saying hello world!!!')
-    console.log("The world said: Hello", "The worst first and the last best");
+    // cleaned up
+    console.log('saying hello world!!!')
 }
 
 export default sayHelloWorld
